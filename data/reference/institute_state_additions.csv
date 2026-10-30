@@ -1,0 +1,20 @@
+institute,state,short_name,institute_type,quotas_seen,confidence,note
+"Central University of Karnataka",Karnataka,CU Karnataka,,,high,new in 2026
+"Central University of Punjab, Bathinda",Punjab,CU Punjab,,,high,new in 2026
+"HNB Garhwal University Srinagar (Garhwal)",Uttarakhand,HNBGU Srinagar,,,high,only in 2019-2021
+"Institute of Technology, Guru Ghasidas Vishwavidyalaya (A Central University), Bilaspur, (C.G.)",Chhattisgarh,GGV Bilaspur,,,high,older name of School of Studies of Engineering and Technology GGV Bilaspur (same institute; same short_name)
+"National Institute of Electronics and Information Technology, Agartala",Tripura,NIELIT Agartala,,,high,new in 2026
+"National Institute of Electronics and Information Technology, Aizawl",Mizoram,NIELIT Aizawl,,,high,new in 2026
+"National Institute of Electronics and Information Technology, Calicut",Kerala,NIELIT Calicut,,,high,new in 2026
+"National Institute of Electronics and Information Technology, Imphal",Manipur,NIELIT Imphal,,,high,new in 2026
+"National Institute of Electronics and Information Technology, Kohima",Nagaland,NIELIT Kohima,,,high,new in 2026
+"National Institute of Electronics and Information Technology, Srinagar",Jammu and Kashmir,NIELIT Srinagar,,,medium,new in 2026; UT - check how the JK quota is defined
+"National Institute of Food Technology Entrepreneurship and Management, Sonepat, Haryana",Haryana,NIFTEM Kundli,,,high,older name of NIFTEM Kundli (Kundli is in Sonepat district; same short_name)
+"National Institute of Food Technology, Entrepreneurship and Management (NIFTEM) - Thanjavur",Tamil Nadu,NIFTEM Thanjavur,,,high,spelling variant of NIFTEM Thanjavur (same short_name)
+"National Institute of Foundry & Forge Technology, Hatia, Ranchi",Jharkhand,NIAMT Ranchi,,,high,older name of NIAMT Ranchi (same short_name)
+"National Institute of Technical Teachers Training and Research Bhopal",Madhya Pradesh,NITTTR Bhopal,,,high,new in 2026
+"Pondicherry Engineering College, Puducherry",Puducherry,PTU Puducherry,,,high,older name of Puducherry Technological University (same short_name); UT
+"lndian Institute of Food Processing Technology, Thanjavur, Tamil Naidu.",Tamil Nadu,NIFTEM Thanjavur,,,high,older name (IIFPT) of NIFTEM Thanjavur; source text has typos (same short_name)
+"Indian Institute of Information Technology Manipur",Manipur,IIIT Senapati,,,high,older name of IIIT Senapati Manipur (same short_name)
+"Indian Institute of Information Technology Srirangam, Tiruchirappalli",Tamil Nadu,IIIT Trichy,,,high,older name of IIIT Tiruchirappalli (same short_name)
+"Indian Institute of Science, Bangalore",Karnataka,IISc Bangalore,,,medium,new in 2026 - CHECK its Institute Type and which rank list (JEE Advanced or JEE Main) its seats use

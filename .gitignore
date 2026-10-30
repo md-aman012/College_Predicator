@@ -1,0 +1,29 @@
+# Virtual environments
+venv/
+.venv/
+
+# Generated data and trained models
+data/processed/
+models/
+
+# Node dependencies (web/)
+node_modules/
+
+# Debug artifacts
+debug_*.html
+*.progress.json
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Environment variables
+.env
+.env*
+
+# IDE / editor
+.vscode/
+.idea/

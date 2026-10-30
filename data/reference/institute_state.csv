@@ -1,0 +1,148 @@
+institute,state,short_name,institute_type,quotas_seen,confidence,note
+School of Planning & Architecture: Vijayawada,Andhra Pradesh,SPA Vijayawada,GFTI,AI,high,
+"North Eastern Regional Institute of Science and Technology, Nirjuli-791109 (Itanagar),Arunachal Pradesh",Arunachal Pradesh,NERIST,GFTI,AI,medium,HS rule may cover the North-East region - verify
+"Assam University, Silchar",Assam,Assam Univ Silchar,GFTI,AI|HS,high,
+"Central institute of Technology Kokrajar, Assam",Assam,CIT Kokrajhar,GFTI,AI,high,
+"School of Engineering, Tezpur University, Napaam, Tezpur",Assam,Tezpur Univ,GFTI,AI,high,
+"Birla Institute of Technology, Patna Off-Campus",Bihar,BIT Patna,GFTI,AI|HS,high,
+"National Institute of Electronics and Information Technology, Patna (Bihar)",Bihar,NIELIT Patna,GFTI,AI,high,
+"Punjab Engineering College, Chandigarh",Chandigarh,PEC Chandigarh,GFTI,HS|OS,medium,UT; check how HS is defined for Chandigarh
+"Chhattisgarh Swami Vivekanada Technical University, Bhilai (CSVTU Bhilai)",Chhattisgarh,CSVTU Bhilai,GFTI,AI,high,
+"Institute of Technology, Guru Ghasidas Vishwavidyalaya (A Central University), Bilaspur, (C.G.)",Chhattisgarh,GGV Bilaspur,GFTI,AI,high,older name of School of Studies of Engineering and Technology GGV Bilaspur (same institute; same short_name)
+"International Institute of Information Technology, Naya Raipur",Chhattisgarh,IIIT Naya Raipur (GFTI),GFTI,AI,high,
+"School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",Chhattisgarh,GGV Bilaspur,GFTI,AI,high,
+"Jawaharlal Nehru University, Delhi",Delhi,JNU Delhi,GFTI,AI,high,UT
+"School of Planning & Architecture, New Delhi",Delhi,SPA Delhi,GFTI,AI,high,UT
+"Gati Shakti Vishwavidyalaya, Vadodara",Gujarat,GSV Vadodara,GFTI,AI,high,
+"Institute of Infrastructure, Technology, Research and Management-Ahmedabad",Gujarat,IITRAM Ahmedabad,GFTI,AI,high,
+Central University of Haryana,Haryana,CU Haryana,GFTI,AI,high,
+"National Institute of Food Technology Entrepreneurship and Management, Kundli",Haryana,NIFTEM Kundli,GFTI,AI,high,
+"National Institute of Food Technology Entrepreneurship and Management, Sonepat, Haryana",Haryana,NIFTEM Kundli,GFTI,AI,high,older name of NIFTEM Kundli (Kundli is in Sonepat district; same short_name)
+Central University of Jammu,Jammu and Kashmir,CU Jammu,GFTI,AI,high,UT; domicile rule for JK quota - verify
+Islamic University of Science and Technology Kashmir,Jammu and Kashmir,IUST Kashmir,GFTI,AI|HS,high,UT; domicile rule for JK quota - verify
+"National Institute of Electronics and Information Technology, Srinagar",Jammu and Kashmir,NIELIT Srinagar,GFTI,AI,medium,new in 2026; UT - check how the JK quota is defined
+"Shri Mata Vaishno Devi University, Katra, Jammu & Kashmir",Jammu and Kashmir,SMVDU Katra,GFTI,AI,high,UT; domicile rule for JK quota - verify
+"Birla Institute of Technology, Deoghar Off-Campus",Jharkhand,BIT Deoghar,GFTI,AI|HS,high,
+"Birla Institute of Technology, Mesra, Ranchi",Jharkhand,BIT Mesra,GFTI,AI|HS,high,
+CU Jharkhand,Jharkhand,CU Jharkhand,GFTI,AI,high,
+"National Institute of Advanced Manufacturing Technology, Ranchi",Jharkhand,NIAMT Ranchi,GFTI,AI,high,
+"National Institute of Foundry & Forge Technology, Hatia, Ranchi",Jharkhand,NIAMT Ranchi,GFTI,AI,high,older name of NIAMT Ranchi (same short_name)
+Central University of Karnataka,Karnataka,CU Karnataka,GFTI,AI,high,new in 2026
+"National Institute of Electronics and Information Technology, Calicut",Kerala,NIELIT Calicut,GFTI,AI,high,new in 2026
+"Institute of Engineering and Technology, Dr. H. S. Gour University. Sagar (A Central University)",Madhya Pradesh,IET Sagar,GFTI,AI,high,
+National Institute of Technical Teachers Training and Research Bhopal,Madhya Pradesh,NITTTR Bhopal,GFTI,AI,high,new in 2026
+"School of Planning & Architecture, Bhopal",Madhya Pradesh,SPA Bhopal,GFTI,AI,high,
+Shri G. S. Institute of Technology and Science Indore,Madhya Pradesh,SGSITS Indore,GFTI,AI,high,
+"National Institute of Electronics and Information Technology, Aurangabad (Maharashtra)",Maharashtra,NIELIT Aurangabad,GFTI,AI,high,
+"National Institute of Electronics and Information Technology, Imphal",Manipur,NIELIT Imphal,GFTI,AI,high,new in 2026
+"North-Eastern Hill University, Shillong",Meghalaya,NEHU Shillong,GFTI,AI,high,
+"Mizoram University, Aizawl",Mizoram,Mizoram Univ,GFTI,AI,high,
+"National Institute of Electronics and Information Technology, Aizawl",Mizoram,NIELIT Aizawl,GFTI,AI,high,new in 2026
+"National Institute of Electronics and Information Technology, Kohima",Nagaland,NIELIT Kohima,GFTI,AI,high,new in 2026
+"Institute of Chemical Technology, Mumbai: Indian Oil Odisha Campus, Bhubaneswar",Odisha,ICT Mumbai IOC Odisha,GFTI,AI|HS,high,
+"International Institute of Information Technology, Bhubaneswar",Odisha,IIIT Bhubaneswar (GFTI),GFTI,AI,high,
+"Pondicherry Engineering College, Puducherry",Puducherry,PTU Puducherry,GFTI,AI|HS,high,older name of Puducherry Technological University (same short_name); UT
+"Puducherry Technological University, Puducherry",Puducherry,PTU Puducherry,GFTI,AI|HS,high,UT
+"Central University of Punjab, Bathinda",Punjab,CU Punjab,GFTI,AI,high,new in 2026
+"National Institute of Electronics and Information Technology, Ropar (Punjab)",Punjab,NIELIT Ropar,GFTI,AI,high,
+Sant Longowal Institute of Engineering and Technology,Punjab,SLIET Longowal,GFTI,AI,high,
+"Central University of Rajasthan, Rajasthan",Rajasthan,CU Rajasthan,GFTI,AI,high,
+"National Institute of Electronics and Information Technology, Ajmer (Rajasthan)",Rajasthan,NIELIT Ajmer,GFTI,AI,high,
+"Indian Institute of Handloom Technology, Salem",Tamil Nadu,IIHT Salem,GFTI,AI,high,
+"National Institute of Food Technology Entrepreneurship and Management, Thanjavur",Tamil Nadu,NIFTEM Thanjavur,GFTI,AI,high,
+"National Institute of Food Technology, Entrepreneurship and Management (NIFTEM) - Thanjavur",Tamil Nadu,NIFTEM Thanjavur,GFTI,AI,high,spelling variant of NIFTEM Thanjavur (same short_name)
+"lndian Institute of Food Processing Technology, Thanjavur, Tamil Naidu.",Tamil Nadu,NIFTEM Thanjavur,GFTI,AI,high,older name (IIFPT) of NIFTEM Thanjavur; source text has typos (same short_name)
+University of Hyderabad,Telangana,Univ of Hyderabad,GFTI,AI,high,
+"National Institute of Electronics and Information Technology, Agartala",Tripura,NIELIT Agartala,GFTI,AI,high,new in 2026
+"Indian Institute of Carpet Technology, Bhadohi",Uttar Pradesh,IICT Bhadohi,GFTI,AI,high,
+"Indian Institute of Handloom Technology(IIHT), Varanasi",Uttar Pradesh,IIHT Varanasi,GFTI,AI,high,
+"J.K. Institute of Applied Physics & Technology, Department of Electronics & Communication, University of Allahabad- Allahabad",Uttar Pradesh,JKIAPT Allahabad Univ,GFTI,AI,high,
+"National Institute of Electronics and Information Technology, Gorakhpur (UP)",Uttar Pradesh,NIELIT Gorakhpur,GFTI,AI,high,
+"Rajiv Gandhi National Aviation University, Fursatganj, Amethi (UP)",Uttar Pradesh,RGNAU Amethi,GFTI,AI,high,
+"Gurukula Kangri Vishwavidyalaya, Haridwar",Uttarakhand,GKV Haridwar,GFTI,AI,high,
+HNB Garhwal University Srinagar (Garhwal),Uttarakhand,HNBGU Srinagar,GFTI,AI,high,only in 2019-2021
+"Ghani Khan Choudhary Institute of Engineering and Technology, Malda, West Bengal",West Bengal,GKCIET Malda,GFTI,HS|OS,high,
+"Indian Institute of Information Technology (IIIT), Sri City, Chittoor",Andhra Pradesh,IIIT Sri City,IIIT,AI,high,
+"Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh",Andhra Pradesh,IIITDM Kurnool,IIIT,AI,high,
+Indian Institute of Information Technology Guwahati,Assam,IIIT Guwahati,IIIT,AI,high,
+Indian Institute of Information Technology Bhagalpur,Bihar,IIIT Bhagalpur,IIIT,AI,high,
+"Indian Institute of Information Technology, Vadodara International Campus Diu (IIITVICD)",Dadra and Nagar Haveli and Daman and Diu,IIITV-ICD Diu,IIIT,AI,high,UT (Diu); check how HS is defined
+Indian Institute of Information Technology Surat,Gujarat,IIIT Surat,IIIT,AI,high,
+"Indian Institute of Information Technology(IIIT), Vadodara, Gujrat",Gujarat,IIIT Vadodara,IIIT,AI,high,
+"Indian Institute of Information Technology(IIIT) Kilohrad, Sonepat, Haryana",Haryana,IIIT Sonepat,IIIT,AI,high,
+"Indian Institute of Information Technology(IIIT) Una, Himachal Pradesh",Himachal Pradesh,IIIT Una,IIIT,AI,high,
+Indian Institute of Information Technology (IIIT) Ranchi,Jharkhand,IIIT Ranchi,IIIT,AI,high,
+Indian Institute of Information Technology(IIIT) Dharwad,Karnataka,IIIT Dharwad,IIIT,AI,high,
+"Indian institute of information technology, Raichur, Karnataka",Karnataka,IIIT Raichur,IIIT,AI,high,
+Indian Institute of Information Technology(IIIT) Kottayam,Kerala,IIIT Kottayam,IIIT,AI,high,
+Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior,Madhya Pradesh,IIITM Gwalior,IIIT,AI,high,
+Indian Institute of Information Technology Bhopal,Madhya Pradesh,IIIT Bhopal,IIIT,AI,high,
+"Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur",Madhya Pradesh,IIITDM Jabalpur,IIIT,AI,high,
+Indian Institute of Information Technology (IIIT) Nagpur,Maharashtra,IIIT Nagpur,IIIT,AI,high,
+Indian Institute of Information Technology (IIIT) Pune,Maharashtra,IIIT Pune,IIIT,AI,high,
+INDIAN INSTITUTE OF INFORMATION TECHNOLOGY SENAPATI MANIPUR,Manipur,IIIT Senapati,IIIT,AI,high,
+Indian Institute of Information Technology Manipur,Manipur,IIIT Senapati,IIIT,AI,high,older name of IIIT Senapati Manipur (same short_name)
+"Indian Institute of Information Technology (IIIT)Kota, Rajasthan",Rajasthan,IIIT Kota,IIIT,AI,high,
+"Indian Institute of Information Technology Srirangam, Tiruchirappalli",Tamil Nadu,IIIT Trichy,IIIT,AI,high,older name of IIIT Tiruchirappalli (same short_name)
+Indian Institute of Information Technology Tiruchirappalli,Tamil Nadu,IIIT Trichy,IIIT,AI,high,
+"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",Tamil Nadu,IIITDM Kancheepuram,IIIT,AI,high,
+"Indian Institute of Information Technology, Agartala",Tripura,IIIT Agartala,IIIT,AI,high,
+Indian Institute of Information Technology Lucknow,Uttar Pradesh,IIIT Lucknow,IIIT,AI,high,
+"Indian Institute of Information Technology, Allahabad",Uttar Pradesh,IIIT Allahabad,IIIT,AI,high,
+"Indian Institute of Information Technology(IIIT) Kalyani, West Bengal",West Bengal,IIIT Kalyani,IIIT,AI,high,
+Indian Institute of Technology Tirupati,Andhra Pradesh,IIT Tirupati,IIT,AI,high,
+Indian Institute of Technology Guwahati,Assam,IIT Guwahati,IIT,AI,high,
+Indian Institute of Technology Patna,Bihar,IIT Patna,IIT,AI,high,
+Indian Institute of Technology Bhilai,Chhattisgarh,IIT Bhilai,IIT,AI,high,
+Indian Institute of Technology Delhi,Delhi,IIT Delhi,IIT,AI,high,UT
+Indian Institute of Technology Goa,Goa,IIT Goa,IIT,AI,high,
+Indian Institute of Technology Gandhinagar,Gujarat,IIT Gandhinagar,IIT,AI,high,
+Indian Institute of Technology Mandi,Himachal Pradesh,IIT Mandi,IIT,AI,high,
+Indian Institute of Technology Jammu,Jammu and Kashmir,IIT Jammu,IIT,AI,high,UT
+Indian Institute of Technology (ISM) Dhanbad,Jharkhand,IIT ISM Dhanbad,IIT,AI,high,
+"Indian Institute of Science, Bangalore",Karnataka,IISc Bangalore,IIT,AI,medium,new in 2026 - CHECK its Institute Type and which rank list (JEE Advanced or JEE Main) its seats use
+Indian Institute of Technology Dharwad,Karnataka,IIT Dharwad,IIT,AI,high,
+Indian Institute of Technology Palakkad,Kerala,IIT Palakkad,IIT,AI,high,
+Indian Institute of Technology Indore,Madhya Pradesh,IIT Indore,IIT,AI,high,
+Indian Institute of Technology Bombay,Maharashtra,IIT Bombay,IIT,AI,high,
+Indian Institute of Technology Bhubaneswar,Odisha,IIT Bhubaneswar,IIT,AI,high,
+Indian Institute of Technology Ropar,Punjab,IIT Ropar,IIT,AI,high,
+Indian Institute of Technology Jodhpur,Rajasthan,IIT Jodhpur,IIT,AI,high,
+Indian Institute of Technology Madras,Tamil Nadu,IIT Madras,IIT,AI,high,
+Indian Institute of Technology Hyderabad,Telangana,IIT Hyderabad,IIT,AI,high,
+Indian Institute of Technology (BHU) Varanasi,Uttar Pradesh,IIT BHU,IIT,AI,high,
+Indian Institute of Technology Kanpur,Uttar Pradesh,IIT Kanpur,IIT,AI,high,
+Indian Institute of Technology Roorkee,Uttarakhand,IIT Roorkee,IIT,AI,high,
+Indian Institute of Technology Kharagpur,West Bengal,IIT Kharagpur,IIT,AI,high,
+"National Institute of Technology, Andhra Pradesh",Andhra Pradesh,NIT Andhra Pradesh,NIT,HS|OS,high,
+National Institute of Technology Arunachal Pradesh,Arunachal Pradesh,NIT Arunachal,NIT,HS|OS,high,
+"National Institute of Technology, Silchar",Assam,NIT Silchar,NIT,HS|OS,high,
+National Institute of Technology Patna,Bihar,NIT Patna,NIT,HS|OS,high,
+National Institute of Technology Raipur,Chhattisgarh,NIT Raipur,NIT,HS|OS,high,
+National Institute of Technology Delhi,Delhi,NIT Delhi,NIT,HS|OS,high,UT
+National Institute of Technology Goa,Goa,NIT Goa,NIT,GO|HS|OS,medium,"GO, HS and OS all present - check how Goa (GO) differs from HS on the JoSAA seat matrix"
+"Sardar Vallabhbhai National Institute of Technology, Surat",Gujarat,SVNIT Surat,NIT,HS|OS,high,
+"National Institute of Technology, Kurukshetra",Haryana,NIT Kurukshetra,NIT,HS|OS,high,
+National Institute of Technology Hamirpur,Himachal Pradesh,NIT Hamirpur,NIT,HS|OS,high,
+"National Institute of Technology, Srinagar",Jammu and Kashmir,NIT Srinagar,NIT,JK|LA|OS,medium,"Quotas JK, LA, OS (no HS): JK = Jammu and Kashmir domicile, LA = Ladakh domicile - verify"
+"National Institute of Technology, Jamshedpur",Jharkhand,NIT Jamshedpur,NIT,HS|OS,high,
+"National Institute of Technology Karnataka, Surathkal",Karnataka,NIT Surathkal,NIT,HS|OS,high,
+National Institute of Technology Calicut,Kerala,NIT Calicut,NIT,HS|OS,high,
+Maulana Azad National Institute of Technology Bhopal,Madhya Pradesh,MANIT Bhopal,NIT,HS|OS,high,
+"Visvesvaraya National Institute of Technology, Nagpur",Maharashtra,VNIT Nagpur,NIT,HS|OS,high,
+"National Institute of Technology, Manipur",Manipur,NIT Manipur,NIT,HS|OS,high,
+National Institute of Technology Meghalaya,Meghalaya,NIT Meghalaya,NIT,HS|OS,high,
+"National Institute of Technology, Mizoram",Mizoram,NIT Mizoram,NIT,HS|OS,high,
+National Institute of Technology Nagaland,Nagaland,NIT Nagaland,NIT,HS|OS,high,
+"National Institute of Technology, Rourkela",Odisha,NIT Rourkela,NIT,HS|OS,high,
+National Institute of Technology Puducherry,Puducherry,NIT Puducherry,NIT,HS|OS,high,UT; campus at Karaikal
+"Dr. B R Ambedkar National Institute of Technology, Jalandhar",Punjab,NIT Jalandhar,NIT,HS|OS,high,
+Malaviya National Institute of Technology Jaipur,Rajasthan,MNIT Jaipur,NIT,HS|OS,high,
+National Institute of Technology Sikkim,Sikkim,NIT Sikkim,NIT,HS|OS,high,
+"National Institute of Technology, Tiruchirappalli",Tamil Nadu,NIT Trichy,NIT,HS|OS,high,
+"National Institute of Technology, Warangal",Telangana,NIT Warangal,NIT,HS|OS,high,
+National Institute of Technology Agartala,Tripura,NIT Agartala,NIT,HS|OS,high,
+Motilal Nehru National Institute of Technology Allahabad,Uttar Pradesh,MNNIT Allahabad,NIT,HS|OS,high,
+"National Institute of Technology, Uttarakhand",Uttarakhand,NIT Uttarakhand,NIT,HS|OS,high,
+"Indian Institute of Engineering Science and Technology, Shibpur",West Bengal,IIEST Shibpur,NIT,HS|OS,high,
+National Institute of Technology Durgapur,West Bengal,NIT Durgapur,NIT,HS|OS,high,
