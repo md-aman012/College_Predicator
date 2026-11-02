@@ -27,3 +27,4 @@ build/
 # IDE / editor
 .vscode/
 .idea/
+./data
